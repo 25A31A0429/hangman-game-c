@@ -63,9 +63,11 @@ It is designed with intelligent gameplay features, domain-specific vocabulary (Q
 
 
 ## 📌 Future Improvements
-
 - 🎚️ Introduce multiple difficulty levels (Easy, Medium, Hard) with varying word complexity and attempts  
 - 💾 Implement file handling to store and display high scores using persistent storage  
 - 🖥️ Develop a graphical user interface (GUI) for enhanced user interaction and visual experience  
 - 🌐 Expand the word database with additional domain-specific and interdisciplinary terms  
 - 🔊 Add sound effects and animations to improve gameplay engagement
+
+  ## 👩‍💻 Author
+S V S Sri Hasini
